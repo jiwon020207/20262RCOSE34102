@@ -10,3 +10,4 @@ This repository is for practicing GitHub commits.
 3. A thread is an execution unit.
 4. The CPU executes instructions.
 5. RAM stores active data.
+6. Scheduling selects processes.

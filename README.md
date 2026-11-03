@@ -12,3 +12,4 @@ This repository is for practicing GitHub commits.
 5. RAM stores active data.
 6. Scheduling selects processes.
 7. FCFS is a scheduling algorithm.
+8. Round Robin uses time slices.

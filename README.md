@@ -13,3 +13,4 @@ This repository is for practicing GitHub commits.
 6. Scheduling selects processes.
 7. FCFS is a scheduling algorithm.
 8. Round Robin uses time slices.
+9. Deadlock can block processes.

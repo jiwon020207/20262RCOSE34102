@@ -9,3 +9,4 @@ This repository is for practicing GitHub commits.
 2. A process is a running program.
 3. A thread is an execution unit.
 4. The CPU executes instructions.
+5. RAM stores active data.

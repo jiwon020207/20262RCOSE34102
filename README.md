@@ -6,3 +6,4 @@ This repository is for practicing GitHub commits.
 ## Study Notes
 
 1. An operating system manages computer hardware and software.
+2. A process is a running program.

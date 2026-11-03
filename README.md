@@ -14,3 +14,4 @@ This repository is for practicing GitHub commits.
 7. FCFS is a scheduling algorithm.
 8. Round Robin uses time slices.
 9. Deadlock can block processes.
+10. Virtual memory uses address mapping.

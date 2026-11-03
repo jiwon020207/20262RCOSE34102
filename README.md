@@ -11,3 +11,4 @@ This repository is for practicing GitHub commits.
 4. The CPU executes instructions.
 5. RAM stores active data.
 6. Scheduling selects processes.
+7. FCFS is a scheduling algorithm.

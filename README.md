@@ -7,3 +7,4 @@ This repository is for practicing GitHub commits.
 
 1. An operating system manages computer hardware and software.
 2. A process is a running program.
+3. A thread is an execution unit.
